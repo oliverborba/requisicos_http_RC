@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "name": "Repolhos",
+      "location": "Vacaropolis",
+      "id": 1
+    },
+    {
+      "name": "Lucas",
+      "location": "Brasil",
+      "id": 2
+    },
+    {
+      "name": "Melissa",
+      "location": "Caxolias",
+      "id": 3
+    },
+    {
+      "name": "Mell",
+      "location": "Caxias",
+      "id": 4
+    }
+  ]
+}
